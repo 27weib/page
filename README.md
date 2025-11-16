@@ -2,8 +2,6 @@
 Static Page
 Yes this is a Static Page
 <h1>Test???</h1>
-<!DOCTYPE html>
-<html>
 <head>
     <meta charset="utf-8" />
     <title>Gamedev Canvas Workshop - lesson 10: finishing up</title>
@@ -182,4 +180,4 @@ Yes this is a Static Page
 </script>
 
 </body>
-</html>
+

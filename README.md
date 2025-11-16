@@ -2,11 +2,13 @@
 Static Page
 Yes this is a Static Page
 <h1>Test???</h1>
+<title>
 <head>
     <meta charset="utf-8" />
     <title>Gamedev Canvas Workshop - lesson 10: finishing up</title>
     <style>* { padding: 0; margin: 0; } canvas { background: #eee; display: block; margin: 0 auto; }</style>
 </head>
+</title>
 <body>
 
 <canvas id="myCanvas" width="480" height="320"></canvas>

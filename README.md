@@ -2,6 +2,7 @@
 Static Page
 Yes this is a Static Page
 <h1>Test???</h1>
+<h2>
 <title>
 <head>
     <meta charset="utf-8" />
@@ -10,7 +11,7 @@ Yes this is a Static Page
 </head>
 </title>
 <body>
-
+</h2>
 <canvas id="myCanvas" width="480" height="320"></canvas>
 
 <script>
